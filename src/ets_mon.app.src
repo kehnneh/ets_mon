@@ -6,9 +6,9 @@
 %%% @end
 %%% Created : 29. Oct 2014 9:32 PM
 %%%-------------------------------------------------------------------
-{application, table_mon, [
+{application, ets_mon, [
     {description, "Table Monitor Application"},
-    {vsn, "0.9"},
+    {vsn, git},
     {applications, [
         kernel,
         stdlib,

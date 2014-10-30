@@ -6,7 +6,7 @@
 %%% @end
 %%% Created : 02. Oct 2014 9:21 PM
 %%%-------------------------------------------------------------------
--module(table_mon).
+-module(ets_mon).
 -author("kehnneh").
 
 -behaviour(gen_server).
