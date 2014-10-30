@@ -1,0 +1,17 @@
+%%%-------------------------------------------------------------------
+%%% @author kehnneh
+%%% @copyright (C) 2014, <COMPANY>
+%%% @doc
+%%%
+%%% @end
+%%% Created : 29. Oct 2014 9:32 PM
+%%%-------------------------------------------------------------------
+{application, table_mon, [
+    {description, "Table Monitor Application"},
+    {vsn, "0.9"},
+    {applications, [
+        kernel,
+        stdlib,
+        lager
+    ]}
+]}.
